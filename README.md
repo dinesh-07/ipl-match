@@ -17,7 +17,7 @@ Download this code as zip or clone the repository with command ```git clone <URL
 
 ### Demo 
 
-Refer home screenshot of current day matches
+Refer quick video of current day matches
 
-![](img/ipl-chrome-extention.png)
+![](img/ipl-extention.gif)
 
