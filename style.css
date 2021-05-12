@@ -1,0 +1,91 @@
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  min-height: 100px;
+  padding: 0;
+  margin: 0;
+  width: 460px;
+}
+h1 {
+  font-family: 'Menlo', monospace;
+  font-size: 28px;
+  font-weight: 400;
+  margin: 0;
+  color: #2f5876;
+}
+
+img {
+  width: 30px;
+}
+
+.modal-header {
+  align-items: center;
+  border-bottom: 0.5px solid #dadada;
+}
+
+.modal-icons {
+  border-top: 0.5px solid #dadada;
+  height: 50px;
+  width: 100%;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.logo {
+  padding: 16px;
+}
+
+.logo-icon {
+  vertical-align: text-bottom;
+  margin-right: 12px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px 18px;
+}
+.team {
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: 3fr 0.5fr 3fr 0.5fr;
+  justify-self: end;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+.fas {
+  color: #2f5876;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.new {
+  color: green;
+  font-style: italic;
+  font-size: 12px;
+  align-items: center;
+  justify-self: center;
+}
+.match-detail-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  height: 60px;
+}
+.match-winner,
+.man-of-the-match,
+.match-new {
+  font-size: 18px;
+}
+
+.match-new {
+  font-weight: 30px;
+}
