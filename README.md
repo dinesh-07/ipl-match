@@ -14,3 +14,10 @@ Download this code as zip or clone the repository with command ```git clone <URL
 
 2. Click on ```Load Unpacked``` and choose the repository folder i.e. ```ipl-match```
 
+
+### Demo 
+
+Refer home screenshot of current day matches
+
+![](img/ipl-chrome-extention.png)
+
